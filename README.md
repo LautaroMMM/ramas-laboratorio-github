@@ -11,6 +11,12 @@
 - realizo correccion requerida. 
 - aca esta el change 
 
+<<<<<<< HEAD
 ## feat-b
 - cambio otra cosa antes del merge propuesto ejercicio 31
 
+=======
+## Otro cambio propuesto feat-b
+
+- aca va.
+>>>>>>> feature-b
