@@ -2,4 +2,8 @@
 
 ## Objetivo
 
+- Objetivos generales
+- Objetivos personales
+- Objetivos terceros
+
 ## Instalacion
