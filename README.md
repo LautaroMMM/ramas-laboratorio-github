@@ -11,3 +11,6 @@
 - realizo correccion requerida. 
 - aca esta el change 
 
+## feat-b
+- cambio otra cosa antes del merge propuesto ejercicio 31
+
