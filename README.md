@@ -7,3 +7,7 @@
 - Objetivos terceros
 
 ## Instalacion
+
+- realizo correccion requerida. 
+- aca esta el change 
+
