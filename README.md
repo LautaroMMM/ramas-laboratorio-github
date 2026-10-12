@@ -11,12 +11,34 @@
 - realizo correccion requerida. 
 - aca esta el change 
 
-<<<<<<< HEAD
 ## feat-b
 - cambio otra cosa antes del merge propuesto ejercicio 31
 
-=======
 ## Otro cambio propuesto feat-b
 
 - aca va.
->>>>>>> feature-b
+
+## Instalación
+
+Instrucciones para instalar y preparar el proyecto.
+
+### Requisitos
+
+- Git
+- Python
+- Visual Studio Code
+
+### Verificar Git
+
+Para comprobar que Git está instalado:
+
+```bash
+git --version
+
+---
+
+# 28. Registrar la corrección
+
+Guardá el cambio:
+
+```bash
