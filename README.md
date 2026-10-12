@@ -27,3 +27,18 @@ Instrucciones para instalar y preparar el proyecto.
 - Git
 - Python
 - Visual Studio Code
+
+### Verificar Git
+
+Para comprobar que Git está instalado:
+
+```bash
+git --version
+
+---
+
+# 28. Registrar la corrección
+
+Guardá el cambio:
+
+```bash
