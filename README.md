@@ -48,5 +48,5 @@ Guardá el cambio:
 # Continuando con la practica
 - Nuevo ejemmplo.
 
-# Creacion conflicto prueba
+# Creacion conflicto prueba 2
     mismas linas para ambos casos.
